@@ -1,0 +1,19 @@
+{
+  "title": "AFRA HABIBI",
+  "handle": "afrahabibi",
+  "tagline": "FULL STACK DEVELOPER & SOFTWARE ENGINEER",
+  "card_title": "STATUS.EXE",
+  "player": "PLAYER 1",
+  "fields": [
+    ["NAME", "AFRA HABIBI"],
+    ["CLASS", "FULL STACK DEV"],
+    ["BASE", "INDONESIA"]
+  ],
+  "stack": ["JS", "TS", "REACT", "NEXT", "NODE", "PHP", "LARAVEL", "PY", "DOCKER"],
+  "status": "ONLINE / CODING",
+  "quest": "BUILDING SCALABLE WEB SYSTEMS",
+  "footer": "THANKS FOR VISITING *",
+  "footer_hint": "PRESS START",
+  "theme": "dusk",
+  "character": "ghost"
+}

@@ -1,110 +1,123 @@
 <div align="center">
-  <!-- Dynamic Cyber Wave Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:2F80ED,100:8A2BE2&height=180&section=header&text=Afra%20Habibi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=62&descSize=18" width="100%" alt="Afra Habibi Header" />
+  <!-- Animated Pixel Art Hero Banner (Dusk Night Sky, Moon & Floating Blinking Ghost) -->
+  <img src="assets/banner.svg" width="100%" alt="Afra Habibi - Pixel Art Dusk City Banner" />
 
-  <!-- Pixel Art Cyberpunk Workspace Banner -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZms3aDRvcDUwamNna2VhMXdhZXBvbWUwdmYzYnRkOXVuYjV3aWltNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AbBBOLVjZwbTR4Rie0/giphy.gif">
-    <img alt="Cyberpunk Pixel Art Developer Workspace" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZms3aDRvcDUwamNna2VhMXdhZXBvbWUwdmYzYnRkOXVuYjV3aWltNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AbBBOLVjZwbTR4Rie0/giphy.gif" width="100%" style="border-radius: 8px;"/>
-  </picture>
-
-  <!-- Glowing Dynamic Typing Intro -->
+  <!-- 8-Bit Retro Arcade Typing SVG -->
   <a href="https://github.com/afrahabibi">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=%3E_Hi+there!+I'm+Afra+Habibi+%F0%9F%91%8B;Full+Stack+Developer+%26+Software+Engineer;Architecting+Scalable+Backend+APIs;Crafting+Futuristic+%26+Responsive+UIs;Open+Source+%26+Technology+Innovator" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=15&duration=3200&pause=1000&color=7AE7FF&center=true&vCenter=true&width=780&lines=%3E_HELLO+WORLD!+I'M+AFRA+HABIBI;FULL+STACK+DEVELOPER+%26+SOFTWARE+ENGINEER;BUILDING+THINGS+FOR+THE+WEB;PIXEL+ART+%26+MODERN+ARCHITECTURE" alt="8-Bit Typing Animation" />
   </a>
 
-  <!-- Quick Status HUD -->
+  <!-- Retro HUD Quick Status -->
   <p align="center">
     <img src="https://img.shields.io/badge/STATUS-ONLINE%20%2F%20CODING-00FF88?style=for-the-badge&logo=codeforces&logoColor=black" alt="Status" />
-    <img src="https://img.shields.io/badge/LOCATION-INDONESIA-2F80ED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-    <img src="https://img.shields.io/badge/FOCUS-FULL--STACK%20ARCHITECTURE-8A2BE2?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Focus" />
-    <img src="https://komarev.com/ghpvc/?username=afrahabibi&color=00F0FF&style=for-the-badge&label=SYSTEM+VIEWS" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/BASE-INDONESIA-7AE7FF?style=for-the-badge&logo=googlemaps&logoColor=black" alt="Location" />
+    <img src="https://img.shields.io/badge/CLASS-FULL--STACK%20DEV-FF77A8?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Class" />
+    <img src="https://komarev.com/ghpvc/?username=afrahabibi&color=FF77A8&style=for-the-badge&label=QUEST+VISITORS" alt="Profile Views" />
   </p>
 </div>
 
-<img src="./assets/dividers/cyber-divider.svg" width="100%" alt="Divider" />
+<!-- Animated Pixel Runner Divider -->
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="Divider" />
+</p>
 
-## 🧠 `[SYSTEM.BIO]` // ABOUT ME
+<!-- Retro Game RPG Status Card (STATUS.EXE) -->
+<div align="center">
+  <img src="assets/status.svg" width="100%" alt="Afra Habibi Status Card" />
+</div>
+
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="Divider" />
+</p>
+
+## 🎮 `[QUEST.LOG]` // ABOUT ME
 
 ```bash
-$ cat << 'EOF' > profile.json
+$ cat << 'EOF' > character_stats.json
 {
-  "developer": "Afra Habibi",
-  "archetype": "Full Stack Engineer & Tech Explorer",
-  "mission": "Transforming complex requirements into sleek, scalable, and high-performance digital products",
-  "core_values": ["Clean Code Architecture", "Pixel-Perfect UI", "Security-First", "Continuous Evolution"]
+  "player": "Afra Habibi",
+  "class": "Full Stack Developer & Software Engineer",
+  "base": "Indonesia",
+  "alignment": "Clean Code & Creative Engineering",
+  "specialty": "Architecting Scalable Backend APIs & Pixel-Perfect Frontends"
 }
 EOF
 ```
 
-I am a passionate **Full Stack Developer** and **Software Engineer** dedicated to building resilient backend services, fluid modern web applications, and intuitive digital experiences. With a deep enthusiasm for clean code, dark-mode cyberpunk design, and modern DevOps workflows, I turn visionary ideas into production-ready solutions.
+I am a **Full Stack Developer** and **Software Engineer** based in Indonesia with an enthusiasm for clean code, responsive web craftsmanship, and retro pixel-art interfaces. I enjoy transforming complex requirements into reliable, high-performance web systems that combine robust architectural foundations with engaging user experiences.
 
-### 🔭 Current Trajectory & Focus
+### 🗺️ Active Quests & Trajectory
 
-- 🚀 **Currently Building:** High-throughput full-stack web platforms and scalable REST/GraphQL APIs.
-- 💡 **Currently Exploring:** Microservices architecture, cloud deployment pipelines, and AI-assisted engineering tools.
-- 🌱 **Currently Learning:** Distributed system resilience, container orchestration, and advanced TypeScript patterns.
-- 🎯 **Development Goals:** Architecting reliable open-source solutions and contributing to cutting-edge web ecosystems.
-- ⚡ **Developer Philosophy:** *Keep it clean, make it fast, and never stop building.*
+- ⚔️ **Current Quest:** Developing high-concurrency web platforms and microservices-ready REST/GraphQL APIs.
+- 🔮 **Skill Exploration:** Deep-diving into cloud native ecosystems, distributed caching, and automated deployment pipelines.
+- 📜 **Knowledge Codex:** Enhancing TypeScript design patterns, container orchestration with Docker, and modern reactive frameworks.
+- 🏆 **Ultimate Goal:** Building impactful open-source tools and delivering world-class software that solves real-world challenges.
+- 💡 **Mantra:** *"Every line of code is a building block of the digital realm."*
 
-<img src="./assets/dividers/cyber-divider.svg" width="100%" alt="Divider" />
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="Divider" />
+</p>
 
-## 🛠️ `[TECH.ARSENAL]` // SKILLS & CAPABILITIES
+## 🛠️ `[EQUIPMENT.VAULT]` // TECH ARSENAL
 
 <div align="center">
   <!-- Skillicons Modern Dark Grid -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,python,html,css,react,nextjs,vue,nodejs,express,laravel,tailwind,bootstrap,postgres,mysql,mongodb,docker,git,github,figma,postman,vscode&perline=12&theme=dark" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=js,ts,php,python,html,css,react,nextjs,vue,nodejs,express,laravel,tailwind,bootstrap,postgres,mysql,mongodb,docker,git,github,figma,postman,vscode&perline=11&theme=dark" alt="Skill Icons" />
   </a>
 </div>
 
 <br/>
 
-### 📌 Categorized Arsenal
+### 🎒 Categorized Inventory
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Programming Languages** | `JavaScript (ES6+)`, `TypeScript`, `PHP`, `Python`, `HTML5`, `CSS3` |
-| **Frontend Development** | `React.js`, `Next.js`, `Vue.js`, `Tailwind CSS`, `Bootstrap`, `Responsive UI/UX` |
-| **Backend & APIs** | `Node.js`, `Express.js`, `Laravel`, `CodeIgniter`, `RESTful APIs`, `JWT Auth` |
+| **Programming Languages** | `TypeScript`, `JavaScript (ES6+)`, `PHP`, `Python`, `HTML5`, `CSS3` |
+| **Frontend Frameworks** | `React.js`, `Next.js`, `Vue.js`, `Tailwind CSS`, `Bootstrap`, `Responsive UI` |
+| **Backend & Engines** | `Node.js`, `Express.js`, `Laravel`, `RESTful APIs`, `JWT Authentication` |
 | **Databases & Storage** | `PostgreSQL`, `MySQL`, `MongoDB`, `Redis` |
-| **DevOps & Tools** | `Docker`, `Git`, `GitHub Actions`, `Postman`, `VS Code`, `Figma` |
+| **DevOps & Utilities** | `Docker`, `Git`, `GitHub Actions`, `Postman`, `VS Code`, `Figma` |
 
-<img src="./assets/dividers/cyber-divider.svg" width="100%" alt="Divider" />
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="Divider" />
+</p>
 
-## 🚀 `[PROJECTS.DASHBOARD]` // FEATURED WORKS
+## 🚀 `[FEATURED.QUESTS]` // HIGHLIGHTED PROJECTS
 
 <div align="center">
 
-| Project | Tech Stack | Status | Actions |
+| Quest / Project | Tech Stack | Status | Repository & Demo |
 | :--- | :--- | :---: | :---: |
-| **🌐 Enterprise Web Platform**<br>Scalable full-stack management system with role-based access control, analytics dashboard, and automated reporting. | `Next.js` `TypeScript`<br>`Tailwind CSS` `PostgreSQL` | ![Production](https://img.shields.io/badge/STATUS-PRODUCTION-00FF88?style=flat-square) | [💻 Source Code](https://github.com/afrahabibi) • [🔗 Live Demo](https://github.com/afrahabibi) |
-| **⚡ High-Performance REST API**<br>Robust microservices-ready backend architecture featuring secure authentication, rate-limiting, and caching layers. | `Node.js` `Express`<br>`Redis` `MySQL` `Docker` | ![Active](https://img.shields.io/badge/STATUS-ACTIVE-2F80ED?style=flat-square) | [💻 Source Code](https://github.com/afrahabibi) • [📖 Documentation](https://github.com/afrahabibi) |
-| **🤖 AI Developer Assistant Tool**<br>Smart developer utility application integrating LLM workflows for rapid code analysis, documentation, and refactoring. | `Python` `FastAPI`<br>`React` `OpenAI API` | ![In Dev](https://img.shields.io/badge/STATUS-IN_DEV-8A2BE2?style=flat-square) | [💻 Source Code](https://github.com/afrahabibi) • [🧪 Preview](https://github.com/afrahabibi) |
-| **🎨 Cyberpunk Portfolio Showcase**<br>Interactive, high-aesthetic developer portfolio featuring responsive animations, retro pixel-art elements, and dark mode. | `React` `Tailwind`<br>`Framer Motion` | ![Completed](https://img.shields.io/badge/STATUS-COMPLETED-00F0FF?style=flat-square) | [💻 Source Code](https://github.com/afrahabibi) • [🌐 Live Site](https://github.com/afrahabibi) |
+| **🌐 OmniPlatform SaaS Suite**<br>Scalable web platform featuring multi-tenant architecture, role-based permissions, and dynamic analytics dashboard. | `Next.js` `TypeScript`<br>`Tailwind` `PostgreSQL` | ![Production](https://img.shields.io/badge/STATUS-PRODUCTION-00FF88?style=flat-square) | [💻 Source Code](https://github.com/afrahabibi) • [🔗 Live Demo](https://github.com/afrahabibi) |
+| **⚡ CoreEngine API Gateway**<br>Microservices backend service with token-based authentication, rate limiting, and distributed caching layer. | `Node.js` `Express`<br>`Redis` `MySQL` `Docker` | ![Active](https://img.shields.io/badge/STATUS-ACTIVE-7AE7FF?style=flat-square) | [💻 Source Code](https://github.com/afrahabibi) • [📖 Docs](https://github.com/afrahabibi) |
+| **🤖 Nexus AI Developer Tool**<br>Intelligent developer companion integrating LLM models for automated code review, documentation, and refactoring. | `Python` `FastAPI`<br>`React` `OpenAI API` | ![In Dev](https://img.shields.io/badge/STATUS-IN_DEV-FF77A8?style=flat-square) | [💻 Source Code](https://github.com/afrahabibi) • [🧪 Preview](https://github.com/afrahabibi) |
+| **👾 Pixel Arcade Portfolio**<br>Retro-themed personal developer portfolio powered by interactive pixel art animations and dark mode design. | `React` `Tailwind`<br>`Framer Motion` | ![Completed](https://img.shields.io/badge/STATUS-COMPLETED-C3A6FF?style=flat-square) | [💻 Source Code](https://github.com/afrahabibi) • [🌐 Live Site](https://github.com/afrahabibi) |
 
 </div>
 
-<img src="./assets/dividers/cyber-divider.svg" width="100%" alt="Divider" />
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="Divider" />
+</p>
 
 ## 📊 `[ANALYTICS.CORE]` // GITHUB STATISTICS
 
 <div align="center">
-  <!-- GitHub Stats & Top Languages Grid -->
+  <!-- GitHub Stats & Top Languages (Custom Dusk Cyber Palette) -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=afrahabibi&show_icons=true&theme=tokyonight&bg_color=161B22&title_color=00F0FF&text_color=C9D1D9&icon_color=2F80ED&border_color=30363D&hide_border=false" alt="Afra Habibi's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=afrahabibi&show_icons=true&bg_color=170d2e&title_color=ff77a8&text_color=fff3d6&icon_color=7ae7ff&border_color=3a2b63&hide_border=false" alt="Afra Habibi's GitHub Stats" />
     &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrahabibi&layout=compact&theme=tokyonight&bg_color=161B22&title_color=00F0FF&text_color=C9D1D9&border_color=30363D&hide_border=false" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrahabibi&layout=compact&bg_color=170d2e&title_color=ff77a8&text_color=fff3d6&border_color=3a2b63&hide_border=false" alt="Top Languages" />
   </p>
 
-  <!-- GitHub Contribution Streak -->
+  <!-- Contribution Streak Stats (Dusk Palette) -->
   <p align="center">
-    <img src="https://streak-stats.demolab.com?user=afrahabibi&theme=tokyonight&background=161B22&border=30363D&stroke=00F0FF&ring=2F80ED&fire=00FF88&currStreakNum=00F0FF" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=afrahabibi&background=170d2e&border=3a2b63&stroke=ff77a8&ring=7ae7ff&fire=ff77a8&currStreakNum=fff3d6&sideNums=fff3d6&currStreakLabel=7ae7ff&sideLabels=c3a6ff&dates=c3a6ff" alt="GitHub Streak" />
   </p>
 
-  <!-- GitHub Activity Graph -->
+  <!-- GitHub Activity Graph (Dusk Palette) -->
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=afrahabibi&theme=tokyo-night&bg_color=161B22&color=00F0FF&line=2F80ED&point=A855F7&area=true&hide_border=true" alt="Activity Graph" width="95%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=afrahabibi&bg_color=170d2e&color=ff77a8&line=7ae7ff&point=fff3d6&area=true&hide_border=false&border_color=3a2b63" alt="Activity Graph" width="95%" />
   </p>
 
   <!-- GitHub Profile Trophies -->
@@ -115,11 +128,13 @@ I am a passionate **Full Stack Developer** and **Software Engineer** dedicated t
   </p>
 </div>
 
-<img src="./assets/dividers/cyber-divider.svg" width="100%" alt="Divider" />
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="Divider" />
+</p>
 
-## 🕹️ `[CONTRIBUTIONS.ARCADE]` // ANIMATED GRAPHS
+## 🕹️ `[CONTRIBUTIONS.ARCADE]` // RETRO CONTRIBUTION GAMES
 
-### 🐍 Contribution Snake Animation
+### 🐍 Dusk Cyber Snake Contribution Grid
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afrahabibi/afrahabibi/output/github-snake-dark.svg" />
@@ -128,7 +143,7 @@ I am a passionate **Full Stack Developer** and **Software Engineer** dedicated t
   </picture>
 </p>
 
-### 👾 Pacman Retro Contribution Game
+### 👾 Retro Arcade Pacman Game
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afrahabibi/afrahabibi/output/pacman-contribution-graph-dark.svg" />
@@ -137,28 +152,32 @@ I am a passionate **Full Stack Developer** and **Software Engineer** dedicated t
   </picture>
 </p>
 
-> ℹ️ *The Snake and Pacman animations are automatically rendered weekly via GitHub Actions. You can also trigger an instant run from the **Actions** tab on your GitHub repository.*
+> ℹ️ *The contribution graphs are automatically updated every Saturday at 21:00 UTC via GitHub Actions, or manually whenever you click **Run workflow**.*
 
-<img src="./assets/dividers/cyber-divider.svg" width="100%" alt="Divider" />
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="Divider" />
+</p>
 
-## 🏆 `[AWARDS.LOG]` // ACHIEVEMENTS & MILESTONES
+## 🏆 `[ACHIEVEMENTS.LOG]` // RECOGNITION & AWARDS
 
 <div align="center">
-  <img src="https://img.shields.io/badge/GitHub-Pull_Shark-00F0FF?style=for-the-badge&logo=github&logoColor=black" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/GitHub-Pull_Shark-7AE7FF?style=for-the-badge&logo=github&logoColor=black" alt="Pull Shark" />
   &nbsp;
-  <img src="https://img.shields.io/badge/GitHub-Quickdraw-2F80ED?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw" />
+  <img src="https://img.shields.io/badge/GitHub-Quickdraw-FF77A8?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw" />
   &nbsp;
-  <img src="https://img.shields.io/badge/GitHub-Pair_Extraordinaire-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Pair Extraordinaire" />
+  <img src="https://img.shields.io/badge/GitHub-Pair_Extraordinaire-C3A6FF?style=for-the-badge&logo=github&logoColor=black" alt="Pair Extraordinaire" />
   &nbsp;
   <img src="https://img.shields.io/badge/GitHub-YOLO-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="YOLO" />
 </div>
 
-<img src="./assets/dividers/cyber-divider.svg" width="100%" alt="Divider" />
+<p align="center">
+  <img src="assets/divider.svg" width="100%" alt="Divider" />
+</p>
 
-## 🌐 `[COMMS.DOCK]` // CONNECT WITH ME
+## 🌐 `[COMMS.STATION]` // CONNECT WITH ME
 
 <div align="center">
-  <p>Feel free to reach out for collaborations, discussions, or exciting software engineering opportunities!</p>
+  <p>Ready to embark on a new development quest or discuss tech architecture? Let's connect!</p>
 
   <a href="https://github.com/afrahabibi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -173,7 +192,7 @@ I am a passionate **Full Stack Developer** and **Software Engineer** dedicated t
   </a>
   &nbsp;
   <a href="https://github.com/afrahabibi" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=safari&logoColor=black" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-7AE7FF?style=for-the-badge&logo=safari&logoColor=black" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://instagram.com/afrahabibi" target="_blank">
@@ -183,16 +202,16 @@ I am a passionate **Full Stack Developer** and **Software Engineer** dedicated t
 
 <br/>
 
+<!-- Animated Pixel Art Arcade Footer -->
 <div align="center">
-  <!-- Animated Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:2F80ED,100:00F0FF&height=120&section=footer" width="100%" alt="Footer Wave" />
+  <img src="assets/footer.svg" width="100%" alt="Thanks for Visiting - Press Start" />
 
   <blockquote>
-    <strong>"Transforming vision into resilient architecture, one commit at a time."</strong>
+    <strong>"Building things for the web, one pixel and one commit at a time."</strong>
   </blockquote>
 
   <p>
-    <code>SYSTEM_STATUS: ALL SERVICES OPERATIONAL</code> • <code>UPTIME: 99.9%</code><br>
-    © 2026 <strong>Afra Habibi</strong>. Crafted with Cyberpunk Aesthetics & Open Source Passion.
+    <code>PLAYER_STATUS: ACTIVE</code> • <code>SYSTEM: OPTIMIZED</code><br>
+    © 2026 <strong>Afra Habibi</strong>. Crafted with Retro Pixel Art & Open Source Spirit.
   </p>
 </div>
